@@ -1,0 +1,21 @@
+.frame {
+  margin: -3rem auto;
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  overflow-x: hidden;
+}
+
+@media (min-width: 768px) {
+  .frame {
+    height: calc(100vh - 130px);
+    padding: 1rem 1rem;
+    margin: -3rem auto;
+    gap: 1rem;
+    flex-direction: column;
+    align-items: stretch;
+  }
+}

@@ -1,0 +1,53 @@
+.menu {
+  width: 100%;
+  padding: 3rem 0rem;
+  text-align: center;
+  position: fixed;
+}
+
+.cancel {
+  border: none;
+  color: rgb(39, 36, 36);
+  padding: 0px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 4vw;
+  margin: 4px 20px;
+  width: 20%;
+  background-color: rgba(249, 243, 243, 0);
+}
+
+.record {
+  border: none;
+  color: rgb(122, 66, 66);
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 4px 2px;
+  border-radius: 70%;
+  background-color: brown;
+  height: 100px;
+  width: 100px;
+}
+
+.submit {
+  border: none;
+  color: rgb(66, 122, 122);
+  padding: 25px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 4vw;
+  margin: 4px 20px;
+  width: 20%;
+  background-color: rgba(249, 243, 243, 0);
+}
+
+.footer {
+  height: 10px;
+  padding: 10px 0px;
+}

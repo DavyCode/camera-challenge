@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HomeScreen Should match snapshot 1`] = `
+<div>
+  <main
+    class="main"
+  >
+    <h1
+      class="title"
+    >
+      <p>
+        Amazing Camera App
+      </p>
+    </h1>
+    <div
+      data-testid="home-button"
+    >
+      <a
+        class="btn"
+        href="/capture"
+      >
+        <span>
+           Start Capture 
+        </span>
+      </a>
+    </div>
+  </main>
+</div>
+`;
