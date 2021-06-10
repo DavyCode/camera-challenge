@@ -28,7 +28,7 @@ Create a .env inside of server directory and add the following config variables
   AWS_SECRET_ACCESS_KEY=<VALID_AWS_SECRET_ACCESS_KEY>
   AWS_REGION=<VALID_AWS_REGION>
   AWS_CONFIG_SET_EMAIL=<VALID_AWS_CONFIG_SET_EMAIL> //https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-email.html Lookup how to send emails with aws SES
-  MAIL_TO=<VALID_EMAIL> //coding-challenge@mieterengel.de
+  MAIL_TO=<VALID_EMAIL> //x.xyz@xyz.com
 ```
 
 CD into client directory and create a .env file and add the following config variables
