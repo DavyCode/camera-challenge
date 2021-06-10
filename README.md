@@ -7,6 +7,17 @@ to us via email.
 
 ---
 
+<div align="center">
+  <img src="screenshots/Screenshot-1.png"><br>
+</div>
+
+---
+
+<div align="center">
+  <img src="screenshots/Screenshot-2.png"><br>
+</div>
+---
+
 First install server dependencies:
 
 ```bash
